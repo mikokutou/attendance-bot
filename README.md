@@ -1,4 +1,4 @@
-# AttendanceBot
+# AttendanceBot flok
 
 [![clasp](https://img.shields.io/badge/built%20with-clasp-4285f4.svg)](https://github.com/google/clasp)
 ![jest tests](https://github.com/a-churchill/attendance-bot/actions/workflows/jest.yml/badge.svg?branch=heroku)
